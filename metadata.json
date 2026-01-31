@@ -1,0 +1,7 @@
+{
+  "name": "ProMemo - Digital Cash Memo & Invoicing",
+  "description": "A world-class professional invoicing and digital cash memo application with AI-powered features, real-time totals, and seamless PDF-ready printing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
